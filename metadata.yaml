@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40826'
     url: http://www.gutenberg.org/2009/agents/40826
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40802#The-Behavior-of-the-Honey-Bee-in-Pollen-Collection
 gutenberg_issued: '2012-09-19'
 gutenberg_type: Text
 identifiers:
